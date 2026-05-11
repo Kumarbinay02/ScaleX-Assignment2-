@@ -1,1 +1,1 @@
-# ScaleX-Assignment2-Medium Design
+# ScaleX-Assignment2- Design
